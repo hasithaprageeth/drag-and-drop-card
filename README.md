@@ -1,5 +1,5 @@
 # Drag and Drop Card
 
-[Live Demo](https://hasithaprageeth.github.io/drag-and-drop-card/)
+[Live Demo](https://hp-drag-and-drop.netlify.app/)
 
 ![Drag and Drop Card ](./assets/screenshot.png)
